@@ -1,0 +1,2 @@
+# get_gsuite_gruop_member
+Gsuiteのグループのメンバーの一覧を取得するための
